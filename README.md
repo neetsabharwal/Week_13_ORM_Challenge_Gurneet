@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 Back-end for an Internet Retail or also known as "E-Commerce" platform. 
 
