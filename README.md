@@ -22,7 +22,10 @@ Back-end for an Internet Retail or also known as "E-Commerce" platform.
   <img src="./Assets/13-orm-homework-demo-03.gif">
 
   ## Video Walkthrough:
-  https://youtu.be/AFJ_wuGrZrM
+  Part 1:
+
+  Part 2:
+  
   
   ## Installation:
   App uses NODE.JS, EXPRESS.JS, MYSQL, Sequelize ORM or just do 'npm i' through the command line to install the necessary packages. Execute 'npm run seeds' to populate DB tables and then 'node server' or 'npm start' and app should run on PORT 3001.
